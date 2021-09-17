@@ -1,0 +1,80 @@
+[1;31m
+Start test 1[0m
+%Error connecting to SQLite database
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+[1;31m
+Start test 2[0m
+%Error connecting to SQLite database
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+[1;31m
+Start test 3[0m
+%Error connecting to SQLite database
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+[1;31m
+Start test 4[0m
+%Error connecting to SQLite database
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+[1;31m
+Start test 5[0m
+%Error connecting to SQLite database
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number: 
+4000008477610377
+Your card PIN: 
+0249
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number: 
+4000004925365011
+Your card PIN: 
+3379
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number: 
+4000006061736210
+Your card PIN: 
+1404
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number: 
+4000003033857513
+Your card PIN: 
+6784
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number: 
+4000005939685120
+Your card PIN: 
+2766
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
