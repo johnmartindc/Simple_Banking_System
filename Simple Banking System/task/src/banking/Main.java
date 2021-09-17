@@ -94,6 +94,7 @@ public class Main {
         catch (SQLException e) {
             System.out.println("Error connecting to SQLite database");
             //e.printStackTrace();
+            //add comment
         }
 
         int choice = getChoice();
